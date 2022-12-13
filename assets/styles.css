@@ -1,0 +1,33 @@
+@import url(header.css);
+@import url(footer.css);
+@import url(main.css);
+@import url(reset.css);
+@import url(experiencia.css);
+@import url(cursos.css);
+
+:root {
+    --background-color: #1c142b;
+    --fonte-principal: 'Josefin Sans';
+    --fonte-cor: aliceblue;
+    --black-cor: #262525;
+    --botoes-cabecalho: #351330;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    overflow:scroll;
+    background-color:var(--background-color);
+    font-family: var(--fonte-principal);
+    color: var(--fonte-cor);
+    
+}
+
+
+
+
+
+
+
+

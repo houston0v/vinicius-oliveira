@@ -1,0 +1,33 @@
+.expriencia__cursos {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    padding: 3em;
+    border-radius: 16px;
+    background-color: var(--black-cor);
+    margin-bottom: 2em;
+    line-height: 1.5em;
+}
+
+.nome__curso{
+    font-size: 20px;
+    font-weight: 700;
+}
+.descricao__curso{
+    font-size: 18px;
+}
+
+.cursos__itens  {
+    font-size: 18px;
+    padding: 1.2em;
+    list-style-type: circle;
+}
+
+.projeto{
+    font-size: 18px;
+    margin-top: 0.7em;
+}
+
+.link__curso:hover {
+    font-size: 19px;
+}

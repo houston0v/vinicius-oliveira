@@ -1,0 +1,17 @@
+.footer {
+    font-family: var(--fonte-principal);
+    font-size:20px;
+    padding: 2em;
+    background-color: var(--black-cor);
+    text-align: center;
+}
+
+.contato{
+    margin-bottom: 1em;
+}
+
+.menu-footer {
+    margin: 0 0 1em 1em;
+}
+
+

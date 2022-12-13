@@ -1,0 +1,39 @@
+.expriencia {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    padding: 3em;
+    border-radius: 16px;
+    background-color: var(--black-cor);
+    margin-bottom: 2em;
+}
+
+.titulo__experiencia {
+    display: flex;
+    
+    font-size: 30px;
+    justify-content: center;
+    margin-top: 2em;
+
+}
+
+.nome__empresa {
+    font-size: 25px;
+}
+
+.cargo{
+    font-size: 20px;
+    margin-top: 1em;
+}
+
+.descricao {
+    font-size: 17px;
+    margin-top: 1em;
+}
+
+
+body {
+    font-family: var(--fonte-principal);
+}
+
+   
