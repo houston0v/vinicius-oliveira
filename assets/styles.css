@@ -1,10 +1,10 @@
-@import url(body.css);
-@import url(header.css);
-@import url(footer.css);
-@import url(main.css);
-@import url(reset.css);
-@import url(experiencia.css);
-@import url(cursos.css);
+@import url(/assets/body.css);
+@import url(/assets/header.css);
+@import url(/assets/footer.css);
+@import url(/assets/main.css);
+@import url(/assets/reset.css);
+@import url(/assets/experiencia.css);
+@import url(/assets/cursos.css);
 
 
 :root {
