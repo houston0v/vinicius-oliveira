@@ -1,16 +1,17 @@
 main {
+    
+    width: 70%;
     font-family: var(--fonte-principal);
-    padding: 10em ;
+    padding: 12em ;
     border-radius: 16px;
     margin:  2em 2em 0 0;
     
 }
 
 .prologo {
-    display: flex;
+    
     flex-direction: column;
     align-content: space-around;
-
     font-size: 20px;
     text-align:center;
     background-color: var(--black-cor);

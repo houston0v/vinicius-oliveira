@@ -1,9 +1,11 @@
+@import url(body.css);
 @import url(header.css);
 @import url(footer.css);
 @import url(main.css);
 @import url(reset.css);
 @import url(experiencia.css);
 @import url(cursos.css);
+
 
 :root {
     --background-color: #1c142b;

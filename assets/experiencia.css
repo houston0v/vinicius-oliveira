@@ -1,8 +1,8 @@
 .expriencia {
-    display: flex;
+    
     flex-direction: column;
     align-content: space-around;
-    padding: 3em;
+    padding: 2em;
     border-radius: 16px;
     background-color: var(--black-cor);
     margin-bottom: 2em;
@@ -19,14 +19,17 @@
 
 .nome__empresa {
     font-size: 25px;
+    text-align: left;
 }
 
 .cargo{
+    text-align: left;
     font-size: 20px;
     margin-top: 1em;
 }
 
 .descricao {
+    text-align: left;
     font-size: 17px;
     margin-top: 1em;
 }
