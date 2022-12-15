@@ -1,12 +1,10 @@
 main {
     
     flex-direction: column;
-    
-
     font-family: var(--fonte-principal);
-    padding: 10em ;
+    padding: 4em;
     border-radius: 16px;
-    margin:  2em 2em 0 0;
+    
    
 }
 
@@ -18,9 +16,25 @@ main {
     font-size: 20px;
     text-align:center;
     background-color: var(--black-cor);
-    padding: 2em;
+    padding: 3em;
     border-radius: 16px;
-    line-height: 1.3em;
+    line-height: 1.5em;
+    
+    
+}
+.container_img{
+    display: flex;
+    margin-top: 5em;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+
+.imagem-home {
+    
+    height: 200px;
+    border-radius: 100px;
     
     
 }

@@ -7,6 +7,7 @@
     background-color: var(--black-cor);
     text-align: center;
     margin-top: 2em;
+    height: 14vh;
     
 }
 
@@ -19,6 +20,3 @@
 }
 
 
-@media screen and (min-width: 1024px){
-    
-}
