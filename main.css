@@ -34,7 +34,18 @@ main {
 .imagem-home {
     
     height: 200px;
-    border-radius: 100px;
+    border-radius: 100px;  
     
-    
+}
+
+@media screen and (max-width: 425px){
+    .imagem-home{
+        height: 150px;
+    }
+    .prologo{
+        padding: 1em;
+    }
+    main{
+        padding: 2em;
+    }
 }

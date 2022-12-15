@@ -33,3 +33,15 @@
     font-family: var(--fonte-principal);
 
 }
+
+@media screen and (max-width: 425px){
+    .expriencia__cursos{
+        padding: 1.5em;
+    }
+    .nome__curso{
+        font-size: 18px;
+    }
+    .descricao__curso{
+        font-size: 14px;
+    }
+}

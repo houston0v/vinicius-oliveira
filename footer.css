@@ -1,9 +1,9 @@
 .footer {
-    flex-grow:1 ;
+    
     width: 100vw;
     font-family: var(--fonte-principal);
     font-size:20px;
-    padding: 2em;
+    padding: 1.5em;
     background-color: var(--black-cor);
     text-align: center;
     margin-top: 2em;
@@ -12,11 +12,20 @@
 }
 
 .contato{
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
 }
 
 .menu-footer {
-    margin: 0 0 1em 1em;
+    margin: 1em;
 }
 
 
+@media screen and (max-width: 425px){
+    .footer{
+        width: 100vw;
+        font-size: 17px;
+        padding: 1em;
+    }
+
+        
+}
