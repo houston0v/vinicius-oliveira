@@ -1,10 +1,13 @@
 .footer {
-    width: 100%;
+    flex-grow:1 ;
+    width: 100vw;
     font-family: var(--fonte-principal);
     font-size:20px;
     padding: 2em;
     background-color: var(--black-cor);
     text-align: center;
+    margin-top: 2em;
+    
 }
 
 .contato{
@@ -16,3 +19,6 @@
 }
 
 
+@media screen and (min-width: 1024px){
+    
+}

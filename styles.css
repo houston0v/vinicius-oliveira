@@ -16,14 +16,14 @@
 }
 
 
-body {
-    display: flex;
-    flex-direction: column;
-    overflow:scroll;
+body, html {
+  
+    
     background-color:var(--background-color);
     font-family: var(--fonte-principal);
     color: var(--fonte-cor);
-    
+    overflow-x: hidden;
+    min-height: 100vh;
 }
 
 
