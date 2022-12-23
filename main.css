@@ -1,15 +1,11 @@
-main {
-    
+main { 
     flex-direction: column;
     font-family: var(--fonte-principal);
     padding: 7em;
     border-radius: 16px;
-    
-   
 }
 
 .prologo {
-    
     flex-direction: column;
     align-content: center;
     justify-content: center;
@@ -19,9 +15,8 @@ main {
     padding: 3em;
     border-radius: 16px;
     line-height: 1.5em;
-    
-    
 }
+
 .container_img{
     display: flex;
     margin-top: 5em;
@@ -30,12 +25,9 @@ main {
     margin-bottom: 0;
 }
 
-
 .imagem-home {
-    
     height: 200px;
     border-radius: 100px;  
-    
 }
 
 @media screen and (max-width: 425px){
