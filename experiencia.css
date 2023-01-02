@@ -1,5 +1,4 @@
 .expriencia {
-    
     flex-direction: column;
     align-content: space-around;
     padding: 2em;
@@ -10,7 +9,6 @@
 
 .titulo__experiencia {
     display: flex;
-    
     font-size: 30px;
     justify-content: center;
     margin-top: 2em;

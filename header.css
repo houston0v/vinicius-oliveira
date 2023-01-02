@@ -1,19 +1,13 @@
 header {
     display: inline-flex;
     background-color: var(--black-cor);
-    ;
-
 }
 
 .cabecalho {
     font-family: var(--fonte-principal);
-    
     width: 100%;
-    
     align-items: center;
-    
     font-weight: 700;
-    
 }
 .menu-navegacao {
     font-size: 15px;
@@ -22,7 +16,6 @@ header {
 }
 
 .menu-navegacao-itens {
-    
     background-color: var(--black-cor);
     padding: 1em 1em ;
     align-items: center;
